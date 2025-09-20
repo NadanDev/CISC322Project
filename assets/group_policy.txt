@@ -1,0 +1,54 @@
+Group Project Policy 
+Project Title: Void
+Course Name: CISC322
+Date Created: 09/19/2025
+
+1.0 Purpose
+This document outlines the operating policies, roles, and expectations for all members of this project group. Its purpose is to ensure that work is distributed fairly, communication is effective, and the project is completed to a high standard. By proceeding with the project, all members agree to adhere to the terms laid out in this charter.
+
+2.0 Roles & Responsibilities
+While all members are expected to contribute to the research, writing, and development of the project, the following roles have specific duties:
+
+2.1 Group Leader (Deng)
+The Group Leader is the primary organizer and facilitator, not the sole person in charge.
+- 	Coordination: Schedules all group meetings and sends reminders.
+- 	Task Management: Creates and maintains a master task list (e.g., on Google Sheets, Trello, or a shared document) with assigned tasks and deadlines.
+-	Progress Tracking: Conducts regular check-ins with members to ensure tasks are on schedule.
+-	Communication Hub: Acts as the primary point of contact for the group and, if necessary, with the instructor/TA.
+-	Conflict Resolution: Mediates disagreements according to the procedure in Section 6.0.
+-	Final Submission: Is responsible for compiling all final components and submitting the project.
+
+2.2 Presenters (Jeff, Emily)
+The Presenters are responsible for the effective delivery of the group's work.
+-	Presentation Design: Lead the creation of the slide deck or other presentation materials, incorporating input from all team members.
+-	Scripting & Rehearsal: Develop a clear and concise presentation script and coordinate rehearsal sessions.
+-	Delivery: Deliver the final presentation confidently and professionally.
+-	Note: The role of "Presenter" does not exclude them from core project tasks (research, writing, etc.). They are expected to contribute equally to the project's content.
+
+2.3 All Team Members Every member, regardless of role, is responsible for:
+-	Completing their assigned tasks to a high quality and on time.
+-	Actively participating in group meetings and discussions.
+-	Contributing fairly to the research, writing, and editing of the project.
+-	Reviewing and providing constructive feedback on other members' work.
+-	Maintaining open and respectful communication.
+
+3.0 Contribution & Workload Management
+-	Task Breakdown: The project will be divided into smaller, manageable tasks by the Group Leader with input from the team.
+-	Task Assignment: Tasks will be assigned during a group meeting based on members' strengths and preferences. All assignments and deadlines will be recorded in a shared document.
+-	Effort-Based Distribution: Work will be distributed based on estimated effort, not just the number of tasks. For example, a difficult research task may be equivalent to writing two simpler sections.
+-	Proof of Contribution: All work should be completed in a shared environment (e.g., Google Docs, GitHub) to ensure transparency and track contributions.
+
+4.0 Communication Protocol
+-	Primary Channel: Our main communication channel will be Discord 
+-	File Sharing: All project files will be stored and shared via [e.g., Google Drive, OneDrive, Dropbox].
+-	Meeting Schedule: We will meet [e.g., every Tuesday at 7 PM EST] via [e.g., Google Meet, Zoom]. Additional meetings can be called by the Group Leader if necessary.
+-	Members are expected to respond to messages in the primary channel within 24 hours.
+
+5.0 Conflict Resolution & Non-Contribution
+If a team member is not contributing fairly or a conflict arises, the following steps will be taken:
+1.	Initial Warning: The Group Leader will privately contact the member to discuss the issue, understand any challenges they may be facing, and clearly restate expectations and upcoming deadlines. This conversation will be documented.
+2.	Group Discussion: If the issue persists, the Group Leader will bring it to the attention of the entire group (without the member in question, initially) to discuss a solution. The group will then have a mediated conversation with the member to create an action plan.
+3.	Formal Escalation: If the member continues to neglect their responsibilities after the above steps, the Group Leader will, with the group's agreement, formally notify the course instructor or TA. The documentation of prior steps will be provided. This may result in a formal adjustment of that member's grade for the project, as per the course syllabus.
+
+6.0 Agreement
+This policy is a living document and can be amended with the unanimous consent of the group. By beginning our work on this project, we all agree to uphold the principles of fairness, respect, and accountability outlined in this charter.
