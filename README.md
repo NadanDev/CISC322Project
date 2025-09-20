@@ -4,9 +4,9 @@ GitHub pages website: [https://nadandev.github.io/CISC322Project/](https://nadan
 Case Study Topic: [https://voideditor.com/](https://voideditor.com/)
 
 ## Group 7: The Trailblazers
-- Deng, Jinpeng (Group Leader)
+- Deng, Jinpeng/`TikaNice` (Group Leader)
 - Hong, Jeff (Presenter 1)
-- Cheng, Emily (Presenter 2)
-- Daneliak, Nathan
-- Chen, Zipeng
+- Cheng, Emily/`Marimoss` (Presenter 2)
+- Daneliak, Nathan/`NadanDev`
+- Chen, Zipeng/`Zipeng-Chen`
 - Gan, Zijie
